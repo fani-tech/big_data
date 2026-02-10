@@ -1,0 +1,14 @@
+.venv/
+.venv_wsl/
+__pycache__/
+.pytest_cache/
+*.pyc
+results/
+.sparkStaging/
+.DS_Store
+
+data/tlc/
+
+/config
+/vdcloud-k8s.ovpn
+/big_data.zip
