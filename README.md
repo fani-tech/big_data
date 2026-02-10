@@ -1,6 +1,6 @@
 # Big Data Project (Spark)
 
-Υλοποίηση εξαμηνιαίας εργασίας (Apache Spark / Hadoop) όπως περιγράφεται στο `project_update.txt` (και ισοδύναμα στο `project.docx`).
+Υλοποίηση εξαμηνιαίας εργασίας (Apache Spark / Hadoop).
 
 ## Γρήγορη εκκίνηση (τοπικά)
 
