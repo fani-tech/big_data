@@ -1,0 +1,11 @@
+version: "3.8"
+
+services:
+  spark-history-server:
+    build: .
+    container_name: spark-history-server
+    environment:
+      - HDFS_USERNAME=${HDFS_USERNAME}
+      - USERNAME=${USERNAME}
+    ports:
+      - "18080:18080"
